@@ -2,15 +2,15 @@ body {
   color: aqua;
   font-family: 'Open Sans', sans-serif;
   padding: 10px;
-  background-image: url("surf.png");
 
 }
 h1, h2 {
   text-align: center;
   padding: 20px;
 }
-.imageContainer {
-  width:200px;
-  height:200px;
-  background-image: url(bethany.jpg);
+img {
+  width: 200px;
+  padding: 50px;
+  margin: 10px;
 }
+
